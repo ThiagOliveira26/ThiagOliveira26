@@ -4,4 +4,4 @@
 
 ⚙️ Formado em Eng. Controle e Automação pela Universidade Federal de Itajubá com experiência em Automação Industrial.<br><br>
 :computer: Dev-Web Júnior em formação!<br><br>
-:computer: Atualmente, estudando HTML, CSS, JavaScript e React.
+:computer: HTML, CSS, JavaScript e React.
